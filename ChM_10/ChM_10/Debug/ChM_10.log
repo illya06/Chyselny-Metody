@@ -1,0 +1,3 @@
+﻿  funcs.cpp
+C:\Users\illyich_\source\repos\ChM_10\ChM_10\funcs.cpp(30,38): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  ChM_10.vcxproj -> C:\Users\illyich_\source\repos\ChM_10\Debug\ChM_10.exe

@@ -1,0 +1,4 @@
+﻿  funcs.cpp
+C:\Users\illyich_\source\repos\ChM_8\ChM_8\funcs.cpp(94,15): warning C4474: 'printf' : too many arguments passed for format string
+C:\Users\illyich_\source\repos\ChM_8\ChM_8\funcs.cpp(94,15): message : placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+  ChM_8.vcxproj -> C:\Users\illyich_\source\repos\ChM_8\Debug\ChM_8.exe
